@@ -1,6 +1,8 @@
 # Konum
 
-![konum](https://user-images.githubusercontent.com/10114716/165154314-647d2a3a-2aef-41d5-b751-0a73d0d6a941.png)
+[![npm version](https://badge.fury.io/js/konum.svg)](https://badge.fury.io/js/konum)
+
+![konum](https://user-images.githubusercontent.com/10114716/196001630-56f438ed-2e09-4e9f-872d-628a2ee3e238.gif)
 
 Konum (means location in Turkish) is a primary browser location provider for React.
 
