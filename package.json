@@ -1,6 +1,6 @@
 {
   "name": "konum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Burak SAKALLI <burak@buraksakalli.org>",
   "description": "A simple browser location hook for React",
   "license": "MIT",
@@ -14,7 +14,9 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build"
+    "build": "tsc && vite build",
+    "preci": "rm -rf node_modules",
+    "ci": "yarn install --frozen-lockfile"
   },
   "dependencies": {
     "react": "^18.0.0",
